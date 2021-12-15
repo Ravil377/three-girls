@@ -12,6 +12,7 @@
       });
     });
     signUp.addEventListener('click', () => {
+      signUp.style.display = 'none';
       modal.classList.add('modal_opened');
     });
 
