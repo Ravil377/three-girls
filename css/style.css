@@ -339,7 +339,7 @@ template {
 }
 
 .modal_tree {
-    background: rgba(0, 0, 0, 0.4);
+    background: rgba(0, 0, 0, 0.9);
     -webkit-backdrop-filter: blur(20px);
             backdrop-filter: blur(20px);
 }
